@@ -8,6 +8,6 @@ Why would RotoGuru try to sell access to this data if they are going to make it 
 
 For example, to download DrafKings data from June 6, 2019 and save to the path /data:
 
-`> python download_bb.py 6 6 2019 --site DraftKings --path /data`
+`> python rotogur/download_bb.py 6 6 2019 --site DraftKings --path /data`
 
 View the help menu via the -*-help* flag
