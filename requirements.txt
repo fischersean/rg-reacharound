@@ -1,0 +1,4 @@
+pandas
+beautifulsoup4>=4
+python>=3
+requests>=2
